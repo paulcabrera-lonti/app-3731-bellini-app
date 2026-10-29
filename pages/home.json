@@ -1,0 +1,69 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "Card",
+      "nodeName": "Card",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "kJkT2o"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "id": "6ae2a003b376633c06f67248",
+      "ownerName": "app-3731",
+      "type": "custom-component",
+      "ownerId": "6ae29ff4b376633c06f67245",
+      "ownerType": "app",
+      "expressions": []
+    },
+    {
+      "name": "Global",
+      "nodeName": "Global",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "QOr-IS"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "id": "6ae2a015b376633c06f67249",
+      "ownerName": null,
+      "type": "custom-component",
+      "expressions": []
+    }
+  ]
+}
